@@ -32,42 +32,42 @@ Focus on penetration testing, reverse engineering, malware analysis, and cyberse
 Explore quantum computing, machine learning, and post-quantum cryptography (e.g., CRYSTALS-Kyber).
 
 # Technical Skills & Expertise
-  Programming
-    - Python – Beginner (Featured in senior project)
-    - C/C++ – Beginner
-    - Bash/Shell – Beginner
-    - Assembly – Beginner
+Programming
+- Python – Beginner (Featured in senior project)
+- C/C++ – Beginner
+- Bash/Shell – Beginner
+- Assembly – Beginner
 Cybersecurity Tools
-    Nmap | Metasploit | Wifite | BurpSuite
-    Autopsy | Wireshark | Tcpdump
+Nmap | Metasploit | Wifite | BurpSuite
+Autopsy | Wireshark | Tcpdump
 Operating Systems
-    - Linux: Debian, Arch
-    - Windows: 10 and below
+- Linux: Debian, Arch
+- Windows: 10 and below
 
 # Education & Certifications  
-  Education
-    - Bachelors of Applied Technology - Cybersecurity | Collin College (In Progress)
-    - Associate of Applied Science - Information Systems - Cybersecurity | Collin College (Completed)
-  Certifications in Progress
-    - Cisco CCNA
-    - CompTIA Security+
-  Future Certifications
-    - NIST Cybersecurity Framework Training
-    - CISSP
+Education
+- Bachelors of Applied Technology - Cybersecurity | Collin College (In Progress)
+- Associate of Applied Science - Information Systems - Cybersecurity | Collin College (Completed)
+Certifications in Progress
+- Cisco CCNA
+- CompTIA Security+
+Future Certifications
+- NIST Cybersecurity Framework Training
+- CISSP
 
 # Resume
-  -UPON REQUEST-
+-UPON REQUEST-
   
 # Accomplishments & Goals
-  Current Focus:
-    - Developing Python scripts for data exfiltration/injection (Linux/Windows).
-    - Testing quantum-resistant cryptography (CRYSTALS-Kyber, FALCON).
-    - Studying Tor/VPN obfuscation techniques.
-    - Learning AI utilization in tool automation and generation
-  Long-Term Vision:
-    - Predicting a "cyber storm" as per WEF 2023, focusing on quantum computing's role in future threats.
-    - Bridging machine learning and cybersecurity for threat detection/analysis.
-  Weaknesses & Growth Areas:
-    - Overcoming math challenges via Number Theory studies.
-    - Building physical lab infrastructure (PCI passthrough/KVM).
+Current Focus:
+- Developing Python scripts for data exfiltration/injection (Linux/Windows).
+- Testing quantum-resistant cryptography (CRYSTALS-Kyber, FALCON).
+- Studying Tor/VPN obfuscation techniques.
+- Learning AI utilization in tool automation and generation
+Long-Term Vision:
+- Predicting a "cyber storm" as per WEF 2023, focusing on quantum computing's role in future threats.
+- Bridging machine learning and cybersecurity for threat detection/analysis.
+Weaknesses & Growth Areas:
+- Overcoming math challenges via Number Theory studies.
+- Building physical lab infrastructure (PCI passthrough/KVM).
     
